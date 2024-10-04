@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1727363534 source:c:\users\student\desktop\programiranje\cas1\zad3\main.c
+	<stdio.h>
+	<stdlib.h>
+
